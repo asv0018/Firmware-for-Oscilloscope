@@ -1,3 +1,4 @@
+
 void Settings(int*response,int size){
   switch (size){
     case 15 : ReInitParams(response,size);break;
